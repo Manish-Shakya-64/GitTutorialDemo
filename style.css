@@ -1,0 +1,17 @@
+.card-div{
+    width: 20rem;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.card{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.header{
+    background-color: blue;
+    font-size: 20px;
+    border-radius: 9px;
+    border: 3px solid black;
+}
